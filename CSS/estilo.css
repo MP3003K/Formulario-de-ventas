@@ -4,11 +4,12 @@
     box-sizing: border-box;
 }
 .Contenedor{
-width: 1228px;
+width: 1233px;
 height:530px;
 background-color: black;
 padding: 0 auto;
 margin-top: 100px;
+border: 3px solid #DBDBDB;
 }
 .C_I_S{
     width: 820px;
@@ -113,12 +114,12 @@ margin: 15px 20px;
 padding: 7px;
 }
 .producto{
-    width: 120px;
+    width: 115px;
     height: 70px;
 float: left; 
 font-size: 23px;
-margin-left: 30px;
-padding-top: 10px;
+margin-left: 40px;
+padding-top: 15px;
 }
 .cuadrado{
 
@@ -182,7 +183,7 @@ padding-left: 23px;
 }
 .raya_azul{
     width: 770px;
-    height: 4px;
+    height: 3px;
     float: left;
     margin-bottom: 8px;
     background-color: #5DB2FF;
@@ -198,3 +199,23 @@ margin-bottom: 10px;
     width: 50px;
     height:48px;
 }
+.cuadro_azul{
+   background-color:#57B5E3;
+    width:144px;
+    height: 36px;
+float: left;
+color: white;
+padding: 6.5px;
+margin-left: 250px;
+margin-top: 26px;
+}
+.cuadro_rojo{
+    background-color:#D73D32;
+     width:144px;
+     height: 36px;
+ float: left;
+ color: white;
+ padding: 6.5px 17px;
+ margin-top: 26px;
+ margin-left: 45px;
+ }
